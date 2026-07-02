@@ -1,0 +1,23 @@
+body{
+    background-color:papayawhip;
+    
+    }
+p{
+   font-size:1rem;
+   color:blue;
+    }
+.Skill{
+ font-size:27px;
+       }
+header{
+  font-size:2rem;
+  color:green;
+      }
+footer{
+      color:green;
+      }
+a:hover {
+       font-size: 22px; 
+        transition:5s;
+        color:red;
+        }
